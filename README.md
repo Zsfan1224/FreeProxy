@@ -10,3 +10,6 @@ V2rayNG订阅链接:https://url.zsfan.us.kg/V2rayNG订阅链接
 Clash订阅链接:https://url.zsfan.us.kg/Clash订阅链接
 
 Base64订阅链接:https://url.zsfan.us.kg/Base64
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Zsfan1224/FreeProxy&type=Date)](https://star-history.com/#Zsfan1224/FreeProxy&Date)
